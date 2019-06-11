@@ -15,7 +15,7 @@ Create a new file called `src/views/Login.vue`. It should have a `template` sect
       <p class="pure-form-message-inline">All fields are required.</p>
 
       <div class="pure-control-group">
-        <label for="username">Email</label>
+        <label for="email">Email</label>
         <input v-model="email" type="text" placeholder="Email">
       </div>
 
